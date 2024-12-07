@@ -6,7 +6,13 @@
 
 - 📫 How to reach me  o.kozluca@hotmail.com or okozluca1@gmail.com
 
+---
 
+## 🌐 Connect with Me:
+- **[GitHub](https://github.com/Kozluca)**
+- **[LinkedIn](https://www.linkedin.com/in/%C3%B6mer-faruk-kozluca-854011215/)**
+
+---
 
 <!---
 Kozluca/Kozluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

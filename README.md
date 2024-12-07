@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Ömer Kozluca
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning C# ,SQL,.NET,MVC,CSS
-- 💞️ I’m looking to collaborate on ...
+
+-  💻 Tech Stack: C# .NET Core PostgreSQL Git & GitHub
+
 - 📫 How to reach me  o.kozluca@hotmail.com or okozluca1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 Kozluca/Kozluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
